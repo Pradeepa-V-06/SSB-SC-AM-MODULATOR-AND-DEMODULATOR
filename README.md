@@ -133,6 +133,7 @@ Note: Keep all the switch faults in off position
     xlabel("time"); ylabel("amplitude");
 
 ## TABULATION
+<img width="957" height="1247" alt="image" src="https://github.com/user-attachments/assets/f844bbb2-7da1-4d91-8377-54386df3415e" />
 
 ## OUTPUT
 
